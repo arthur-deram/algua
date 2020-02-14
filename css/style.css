@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Quicksand&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #fcf8e8;
+}
+
+h1, h2, h3{
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 30px;
+}
+
